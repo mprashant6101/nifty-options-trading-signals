@@ -1,0 +1,24 @@
+# Python standard ignores
+*.py[cod]
+*.pyo
+__pycache__/
+
+# environment variables
+.env
+
+# virtual environments
+.venv/
+.env/
+
+# IDE settings
+.idea/
+.vscode/
+
+# log files
+*.log
+
+# cache files
+.cache/
+
+# trading data
+trading_data/
